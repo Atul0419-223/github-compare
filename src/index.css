@@ -1,0 +1,7 @@
+.site-page-header {
+    border: 1px solid  #01CBC6(235, 237, 240);
+    position: relative;
+    bottom: "0";
+    background-color: #01CBC6;
+    display:flex;
+  }
